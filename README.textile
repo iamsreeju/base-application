@@ -19,7 +19,7 @@ h2. Development
 * Testing Framework: RSpec and Factory Girl
 * Front-end Framework: Twitter Bootstrap (Sass)
 * Form Builder: SimpleForm
-* Authentication: Devise
+* Authentication: Devise with google, twitter and facebook connect
 * Authorization: CanCan
 
 h2. Email
