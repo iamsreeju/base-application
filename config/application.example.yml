@@ -1,5 +1,4 @@
 # Add account credentials and API keys here.
-# See http://railsapps.github.io/rails-environment-variables.html
 # This file should be listed in .gitignore to keep your settings secret!
 # Each entry sets a local environment variable and overrides ENV variables in the Unix shell.
 # For example, setting:
@@ -12,4 +11,11 @@ GMAIL_PASSWORD: Your_Password
 ADMIN_NAME: First User
 ADMIN_EMAIL: user@example.com
 ADMIN_PASSWORD: changeme
-ROLES: [admin, user, VIP]
+ROLES: [admin, manager, member]
+FACEBOOK_KEY: FACEBOOK_KEY
+FACEBOOK_SECRET: FACEBOOK_SECRET
+FACEBOOK_SCOPE: FACEBOOK_SCOPE
+TWITTER_KEY: TWITTER_KEY
+TWITTER_SECRET: TWITTER_SECRET
+GOOGLE_KEY: GOOGLE_KEY
+GOOGLE_SECRET: GOOGLE_SECRET

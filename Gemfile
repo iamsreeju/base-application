@@ -20,6 +20,12 @@ gem 'figaro'
 gem 'mysql2'
 gem 'rolify'
 gem 'simple_form', '>= 3.0.0.rc'
+gem 'countries'
+gem 'country_select'
+gem 'friendly_id', '~> 5.0.0'
+gem "ckeditor"
+gem "paperclip"
+gem "paperclip-dropbox", ">= 1"
 group :assets do
   gem 'therubyracer', :platform=>:ruby
 end
